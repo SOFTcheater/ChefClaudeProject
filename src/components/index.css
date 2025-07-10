@@ -1,0 +1,17 @@
+.Navbar{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(243, 59, 59);
+ height: 70px;
+ border-top-left-radius: 20px;
+ border-top-right-radius: 20px;
+}
+.Text{
+  color: aliceblue;
+  margin-left:5px;
+  font-weight: bold; 
+ 
+}
+
+
